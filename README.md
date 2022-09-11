@@ -17,7 +17,11 @@ envname\scripts\activate
 
 --> Install the requirements :
 ```bash
-pip install -r requirements.txt
+pip install pandas
+
+```
+```bash
+pip install alpha_vantage
 
 ```
 
@@ -27,4 +31,4 @@ pip install -r requirements.txt
 
 --> To run the App, we use :
 ```bash
-python manage.py runserver
+Use run program command
