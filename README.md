@@ -31,4 +31,4 @@ pip install alpha_vantage
 
 --> To run the App, we use :
 ```bash
-Use run program command
+Use run program
